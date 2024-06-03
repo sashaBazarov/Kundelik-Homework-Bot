@@ -51,7 +51,7 @@ cd repo
 
 ## Благодарности
 
-- [Bs0Dd]([https://github.com/Kunapipy](https://github.com/Bs0Dd) за библиотеку для работы с API Kundelik.kz
+- [Bs0Dd](https://github.com/Kunapipy) за библиотеку для работы с API Kundelik.kz
 
 ---
 

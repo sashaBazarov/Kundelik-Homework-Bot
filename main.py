@@ -8,7 +8,7 @@ import kunapipy
 import requests.exceptions
 import formatweekday
 
-token='6911695699:AAHUGLmcQ6JAmhrqGY3FTeA1BCslmpPmx8w'
+token=''
 bot=telebot.TeleBot(token)
 
 def restart():

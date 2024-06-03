@@ -43,7 +43,7 @@ cd repo
 
 ## Лицензия
 
-Этот проект лицензирован на условиях MIT License. Подробности см. в файле [LICENSE](LICENSE).
+Этот проект лицензирован на условиях MIT License.
 
 ## Вклад
 
@@ -55,4 +55,4 @@ cd repo
 
 ---
 
-Если у вас возникнут какие-либо вопросы, не стесняйтесь обращаться к авторам проекта через [Issues](https://github.com/username/repo/issues).
+Если у вас возникнут какие-либо вопросы, не стесняйтесь обращаться к авторам проекта через [Issues](https://github.com/sashaBazarov/Kundelik-Homework-Bot/issues).
